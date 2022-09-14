@@ -1,6 +1,6 @@
 <template>
     <div class="h-100 p-5 bg-white border rounded-3 mt-5">
-        <h2>Pesquisar Vagas</h2>
+        <h2>Pesquisar Vaga</h2>
         <form @submit.prevent="pesquisarVaga()">
             <div class="row">
                 <div class="col">
